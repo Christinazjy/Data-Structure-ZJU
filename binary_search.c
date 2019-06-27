@@ -1,3 +1,4 @@
+//01-复杂度3 二分查找
 Position BinarySearch(List L, ElementType X)
 {
 	int left, right, mid;
